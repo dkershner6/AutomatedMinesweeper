@@ -10,7 +10,7 @@ Coding challenge to explode as many mines as possible
  the blast radius of that mine will be triggered to explode in one
  second.  The mine you manually explode blows up at time 0.
 
- Your Task: Write a program which will read in a mines file and
+ Your Task: Write a program which will read in a mines array and
  output the maximum number of mines you can explode.  Also output 
  which mine you need to manually set off to explode this maximum 
  number.  Since there may be multiple mines that blow up a maximal 
